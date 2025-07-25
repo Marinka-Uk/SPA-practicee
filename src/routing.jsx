@@ -3,6 +3,7 @@ import {createBrowserRouter} from "react-router-dom"
 import {Layout} from "./Pages/layout"
 import {MainPage} from "./Pages/MainPage"
 import {SearchPage} from "./Pages/SearchPage"
+import { GallaryPage } from "./Pages/Gallery"
 
 
 
